@@ -2,7 +2,7 @@
 
 Традиционно рассмотрим приложение которое выводит в консоль текст.
 
-Код примера находится в `src/basics/hello_world/hello_world/main.go`
+Код примера находится в `src/basics/hello_world/main.go`
 
 ```go
 package main

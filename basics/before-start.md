@@ -6,6 +6,9 @@
 
 Пользователи MacOS могут воспользоваться `brew install go`
 
+Установочные файлы для других операционных систем (MS Windows, Darwin, ARM) или
+исходники можно скачать с официального сайта: https://golang.org/dl/.
+
 ## Настройка окружения
 
 В основном, вся настройка сводится к установке переменной окружения GOPATH, данная
@@ -31,10 +34,15 @@
 git clone git@github.com:pahanini/go-for-php-developers-book.git
 ```
 
-Сделаем директорию репозитория рабочей.
+Сделаем директорию репозитория рабочей (linux):
 
 ```
 cd go-for-php-developers-book && export GOPATH=`pwd`
+```
+
+Windows:
+```
+set GOPATH=`path-to\go-for-php-developers-book`
 ```
 
 В дальнейшем говоря, о рабочей директории, будем иметь ввиду директорию

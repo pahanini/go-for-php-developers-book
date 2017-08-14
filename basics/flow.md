@@ -79,6 +79,28 @@ switch i {
 }
 ```
 
+Для замены ряда if-else-if-else "лесенок", можно возпользоваться `switch`:
+```go
+// go
+switch i {
+   case i < 0:
+       // less then zero
+   case 0 >= i && i < 10:
+       // first ten
+   case i >= 10:
+       // more then ten
+}
+```
+
+Кроме этого в `case` можно передавать список, разделенный запятой:
+```go
+// go
+switch c {
+    case '#', '@', '%':
+        // do something
+}
+```
+
 ## Циклы
 
 В Go всего одно ключевое слово для циклов `for`.

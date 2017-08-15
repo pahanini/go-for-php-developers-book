@@ -5,7 +5,7 @@
     * [Подготовка к работе](basics/before-start.md)
     * [Hello world](basics/hello-world.md)
     * [Базовые типы](basics/types.md)
-    * [Переменные (TBD)](basics/variables.md)
+    * [Переменные](basics/variables.md)
     * [Управляющие структуры](basics/flow.md)
     * [Массивы, слайсы, карты (TBD)](basics/array-slice-map.md)
     * [Структуры и интерфейсы (TBD)](basics/struct-and-interface.md)

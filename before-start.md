@@ -39,4 +39,4 @@ set GOPATH=`path-to\go-for-php-developers-book`
 ## IDE
 
 [IDEA](https://www.jetbrains.com/idea/) и [Atom](https://atom.io/) поддерживают работу
-с Go через соответсвующие плагины.
+с Go через соответствующие плагины.

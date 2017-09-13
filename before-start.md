@@ -19,7 +19,7 @@
 Вы можете склонировать данный репозиторий, чтобы в дальнейшем не набирать примеры вручную.
 
 ```
-git clone git@github.com:pahanini/go-for-php-developers-book.git
+git clone https://github.com/pahanini/go-for-php-developers-book.git
 ```
 
 Сделаем директорию репозитория рабочей (linux):

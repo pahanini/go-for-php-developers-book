@@ -1,0 +1,5 @@
+trash
+bin
+vendor
+Gopkg.*
+pkg

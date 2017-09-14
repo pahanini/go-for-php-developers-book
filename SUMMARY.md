@@ -6,11 +6,11 @@
 * [3. Базовые типы](basic-types.md)
 * [4. Функции](func.md)
 * [5. Указатели](pointers.md)
-* [6. Струкуры и интерфейсы](structs.md)
+* [6. Структуры и интерфейсы](structs.md)
 * [7. Простейший web-сервер (hello world)](hello-world.md)
 * [8. Импорт. GOPATH. Зависимости](import-and-deps.md)
 * [9. Роутинг. Пакет. (TBD)](routing.md)
 
 
-* [Приложения](appendix/README.md)
-    * [Полезные ресуры](appendix/resources.md)
+* [Приложение](appendix/README.md)
+    * [Полезные ресурсы](appendix/resources.md)

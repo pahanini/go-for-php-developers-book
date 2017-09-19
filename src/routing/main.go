@@ -7,7 +7,7 @@ import (
 
 func main() {
 	e := echo.New()
-	e.GET("/", handlers.Main)
+	e.GET("/stat.js", handlers.Stat)
 	e.GET("/counter.js", handlers.Counter)
 	e.Start(":8080")
 }

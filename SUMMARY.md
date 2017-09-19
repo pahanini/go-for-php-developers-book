@@ -9,8 +9,8 @@
 * [6. Структуры и интерфейсы](structs.md)
 * [7. Простейший web-сервер](hello-world.md)
 * [8. Импорт. Зависимости](import-and-deps.md)
-* [9. Роутинг. Пакеты.](routing.md)
-* [10. Анонимные функции. Замыкания.](anonymous-functions.md)
+* [9. Роутинг. Пакеты](routing.md)
+* [10. Анонимные функции. Замыкания](anonymous-functions.md)
 
 
 * [Приложение](appendix/README.md)

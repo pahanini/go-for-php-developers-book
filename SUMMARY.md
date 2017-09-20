@@ -11,6 +11,7 @@
 * [8. Импорт. Зависимости](import-and-deps.md)
 * [9. Роутинг. Пакеты](routing.md)
 * [10. Анонимные функции. Замыкания](anonymous-functions.md)
+* [11. Горутины](goroutines.md)
 
 
 * [Приложение](appendix/README.md)

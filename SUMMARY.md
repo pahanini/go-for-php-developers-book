@@ -12,6 +12,8 @@
 * [9. Роутинг. Пакеты](routing.md)
 * [10. Анонимные функции. Замыкания](anonymous-functions.md)
 * [11. Горутины](goroutines.md)
+* [12. Каналы](channels.md)
+
 
 
 * [Приложение](appendix/README.md)

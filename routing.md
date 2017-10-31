@@ -21,7 +21,7 @@ func stat(c echo.Context) error {
 }
 
 func counter(c echo.Context) error {
-	return c.String(http.StatusOK)
+	return c.String(http.StatusOK, "counter")
 }
 
 func main() {
@@ -76,5 +76,5 @@ func main() {
 	e.GET("/counter.js", handlers.Counter)
 	e.Start(":8080")
 }
-
+```
 **Код находится в `src/routing`.**
